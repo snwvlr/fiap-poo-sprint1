@@ -1,0 +1,10 @@
+/bin/
+/out/
+/bin-test/
+*.class
+.idea/
+*.iml
+.classpath
+.project
+.settings/
+/*.zip
